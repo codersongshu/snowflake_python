@@ -3,7 +3,7 @@
 #
 # cxn = snowflake.connector.connect(
 #     user='codersongshu',
-#     password='Linlan1988',
+#     password='*****',
 #     account='aq54466.ca-central-1.aws',
 #     warehouse='wh',
 #     database='myDb',
